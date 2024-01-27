@@ -12,6 +12,7 @@ nav {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    margin: 0px 200px;
 
 }
 
@@ -46,4 +47,16 @@ nav a {
     color: white;
     padding: 15px 35px;
 
+}
+.header{
+
+}
+.banner{
+    padding: 30px 30px 30px 150px;
+    display: flex;
+    align-items: center;
+}
+.banner .profile-pic{
+    width: 300px;
+    
 }
