@@ -1,0 +1,10 @@
+/* header section */
+nav{
+    display: flex;
+}
+.text-primary{
+    color: #FD6E0A;
+}
+nav>ul {
+display: flex;
+}
